@@ -1,0 +1,18 @@
+1693850620505	geckodriver	INFO	Listening on 127.0.0.1:65098
+1693850620995	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65099" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\cnas\\AppData\\Local\\Temp\\rust_mozprofileoYKnN4"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693850621449	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693850621602	Marionette	INFO	Listening on port 65104
+WebDriver BiDi listening on ws://127.0.0.1:65099
+Read port: 65104
+1693850621852	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:65099/devtools/browser/0eff5b4c-76d1-4a33-904d-459b8d7560ec
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://seubarriga.wcaquino.me."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://seubarriga.wcaquino.me."
+1693850652887	Marionette	INFO	Stopped listening on port 65104
+Dynamically enable window occlusion 1
+console.error: (new AbortError("IndexedDB: main/doh-providers getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.sys.mjs", 16))
+console.error: (new Error("IndexedDB: main/doh-config getLastModified() IndexedDB:  execute() The application is shutting down", "resource://services-settings/IDBHelpers.sys.mjs", 16))
+console.error: (new Error("IndexedDB: main/ms-language-packs getLastModified() IndexedDB:  execute() The application is shutting down", "resource://services-settings/IDBHelpers.sys.mjs", 16))
